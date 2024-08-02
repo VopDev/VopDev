@@ -13,7 +13,7 @@
 ## 📊 Stats
 
 [![](https://img.shields.io/github/followers/vopdev?style=for-the-badge)](https://github.com/VopDev)
-[![](https://komarev.com/ghpvc/?username=vopdev&color=blue&style=for-the-badge)](https://github.com/AwayFromKane)
+[![](https://komarev.com/ghpvc/?username=vopdev&color=blue&style=for-the-badge)](https://github.com/VopDev)
 
 
 ## 📃 Quote
