@@ -2,7 +2,7 @@
 
 ### Hi, I'm VopDev!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Backend+&+FiveM+Developer)](https://github.com/VopDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Backend+and+FiveM+Developer)](https://github.com/VopDev)
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/368844587101454336?theme=dark)](https://discord.com/users/368844587101454336)
