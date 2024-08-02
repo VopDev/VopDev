@@ -2,10 +2,10 @@
 
 ### Hi, I'm VopDev!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/VopDev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Backend+&+FiveM+Developer)](https://github.com/VopDev)
 
 ## 📊 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/212192520141144064?theme=dark)](https://discord.com/users/368844587101454336)
+[![Discord Presence](https://lanyard.cnrad.dev/api/368844587101454336?theme=dark)](https://discord.com/users/368844587101454336)
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VopDev&layout=compact)](https://github.com/VopDev)
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,mongodb,mysql,md,lua,git,jquery,nginx,vscode&theme=dark)](https://github.com/VopDev)
